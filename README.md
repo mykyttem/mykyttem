@@ -8,4 +8,4 @@
 ## 📊 GitHub Stats
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mykyttem&hide_border=true&theme=holi&border_radius=25px&layout=donut)
 
-![ArtemLobk GitHub stats](https://github-readme-stats.vercel.app/api?username=mykyttem&hide_border=true&theme=holi&show_icons=true&border_radius=25px)
+![Mykyta GitHub stats](https://github-readme-stats.vercel.app/api?username=mykyttem&hide_border=true&theme=holi&show_icons=true&border_radius=25px)
