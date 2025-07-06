@@ -6,25 +6,27 @@
 
 ## My tools
 <div align="center">
-    <a href="https://www.python.org/" target="_blank"> 
-        <img alt="Python" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    </a>
-    <a href="https://www.linux.org/" target="_blank"> 
-        <img alt="Linux" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    </a>
-    <a href="https://golang.org/" target="_blank"> 
-        <img alt="Golang" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
-    </a>
-    <a href="https://www.javascript.com/" target="_blank"> 
-        <img alt="JavaScript" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    </a>
-    <a href="https://www.typescriptlang.org/" target="_blank"> 
-        <img alt="TypeScript" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-    </a>
-    <a href="https://flutter.dev/" target="_blank"> 
-        <img alt="Flutter" height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
-    </a>
+  <a href="https://www.python.org/" target="_blank"> 
+    <img alt="Python" style="width:28px; height:28px; margin:0; padding:0; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+  </a>
+  <a href="https://www.linux.org/" target="_blank"> 
+    <img alt="Linux" style="width:28px; height:28px; margin:0; padding:0; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  </a>
+  <a href="https://golang.org/" target="_blank"> 
+    <img alt="Golang" style="width:28px; height:28px; margin:0; padding:0; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" />
+  </a>
+  <a href="https://www.javascript.com/" target="_blank"> 
+    <img alt="JavaScript" style="width:28px; height:28px; margin:0; padding:0; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> 
+    <img alt="TypeScript" style="width:28px; height:28px; margin:0; padding:0; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  </a>
+  <a href="https://flutter.dev/" target="_blank"> 
+    <img alt="Flutter" style="width:28px; height:28px; margin:0; padding:0; vertical-align:middle;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+  </a>
 </div>
+
+
 
 ## 📊 GitHub Stats
 
