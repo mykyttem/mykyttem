@@ -31,9 +31,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=mykyttem&hide_border=true&theme=radical&show_icons=true&border_radius=25px" />
+    <img src="https://github-readme-stats.vercel.app/api?username=mykyttem&hide_border=true&theme=radical&show_icons=true&border_radius=25px"/>
 </div>
 
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykyttem&hide_border=true&theme=radical&border_radius=25px&layout=donut" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mykyttem&hide_border=true&theme=radical&border_radius=25px&layout=donut"/>
 </div>
